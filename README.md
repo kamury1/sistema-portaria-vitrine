@@ -79,6 +79,15 @@ Python · Tkinter · SQLite
 
 ---
 
+## 📞 Contato
+
+Quer o sistema no seu condomínio ou uma demonstração? Fale com a **Kamury Tech**:
+
+- ✉️ **E-mail:** [kamurytech@gmail.com](mailto:kamurytech@gmail.com)
+- 📱 **Celular:** (41) 99118-6858
+
+---
+
 ## 📄 Licença
 
 Software proprietário da **Kamury Tech**. O sistema é distribuído com período de avaliação e ativação por chave de licença. Todos os direitos reservados.
